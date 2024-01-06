@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/aarifa.jpeg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -27,10 +27,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>Java Developer</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                Experienced Java Developer adept at solving complex problems
+                through data structures.
               </p>
             </div>
           </li>

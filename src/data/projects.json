@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Resume Builder",
+    "imageSrc": "projects/resume.webp",
+    "description": "This website will be built the resume for professional and non - professional people in any field's.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://aarifasidd.github.io/Resume.Build.Web/",
+    "source": "https://github.com/AarifaSidd/Resume.Build.Web"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "xcrypto-app",
+    "imageSrc": "projects/BIT.png",
+    "description": "About Xcrypto-App is a web application designed to provide users with real-time information about various crypto currencies available in the market.",
+    "skills": ["React", "CSS", "JavaScript"],
+    "demo": "https://xcrypto-app-zeta.vercel.app/",
+    "source": "https://github.com/AarifaSidd/Xcrypto.App"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "GameBoard",
+    "imageSrc": "projects/tic.jpg",
+    "description": "Building a Tic Tac Toe board to grasp JavaScript concepts through practical implementation.",
+    "skills": ["JavaScript", "HTML", "CSS"],
+    "demo": "https://aarifasidd.github.io/GameBoard/",
+    "source": "https://github.com/AarifaSidd/GameBoard"
   }
 ]
